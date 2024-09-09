@@ -41,7 +41,7 @@ export default function DigitalClock() {
                     <div className="text-2xl font-bold tracking-tight">
                         Digital Clock
                     </div>
-                    <div className="text-sm text-gray-500 dark:text-gray-400 mb-4">
+                    <div className="text-sm text-gray-700 dark:text-gray-400 mb-4">
                         Display current time in hours, minutes, and seconds.
                     </div>
                     <div className="text-6xl font-bold tracking-tight">
