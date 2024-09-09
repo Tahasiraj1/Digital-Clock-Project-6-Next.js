@@ -36,7 +36,7 @@ export default function DigitalClock() {
             backgroundRepeat: "no-repeat",
         }}
         >
-            <Card className="p-8 shadow-lg rounded-2xl bg-gradient-to-br from-teal-200 via-teal-300 to-teal-400">
+            <Card className="p-8 shadow-lg rounded-2xl bg-gradient-to-br from-gray-300 via-gray-400 to-gray-500">
                 <div className="flex flex-col items-center justify-center">
                     <div className="text-2xl font-bold tracking-tight">
                         Digital Clock
